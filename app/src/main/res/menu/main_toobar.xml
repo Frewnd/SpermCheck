@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_takepic"
+        android:title="拍照"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_recording"
+        android:title="录像"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_focus"
+        android:title="对焦"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_resolution"
+        android:title="分辨率"
+        app:showAsAction="never" />
+</menu>

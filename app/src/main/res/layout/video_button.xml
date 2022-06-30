@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <include
+        layout="@layout/timer"
+        android:layout_width="38dp"
+        android:layout_height="20dp"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:id="@+id/video_button"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:alpha="0.5"
+        android:background="@drawable/btn_circle_red" />
+
+
+</RelativeLayout>

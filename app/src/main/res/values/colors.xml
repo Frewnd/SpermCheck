@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraTranslation">
+    <color name="colorPrimary">#589BAD</color>
+    <color name="colorPrimaryDark">#589BAD</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="loginBackgroundColor">#E4E4E4</color>
+    <color name="textLoginColor">#589bad</color>
+    <color name="titleColor">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="timeGreen">#8BC34A</color>
+    <color name="listGray">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#EFB7B7</color>
+    <color name="gray">#F4F4F4</color>
+    <color name="red">#FC6453</color>
+    <color name="green">#AEE989</color>
+    <color name="lineColor">#FF8176</color>
+    <color name="mainColor">#C3E3E5</color>
+
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="rb">#fffdf1</color>
+    <color name="hb">#dadada</color>
+    <color name="hh">#FFDCDC</color>
+    <color name="dh">#FFE3AB</color>
+</resources>

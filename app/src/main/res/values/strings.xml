@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraTranslation">
+    <string name="app_name">Sperm Check</string>
+    <string name="hint_id">手机号/用户名/邮箱</string>
+    <string name="hint_password" >密码</string>
+    <string name="button_login">登录</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="new_user">新用户注册</string>
+    <string name="main_title">主页</string>
+    <string name="begin_title">操作步骤</string>
+    <string name="begin_text">开始测试</string>
+    <string name="warning_text">注意事项：在拍摄视频时请不要抖动，也不要有任何的障碍物遮掩，以免造成结果不准确！</string>
+    <string name="preview_title">视频预览</string>
+    <string name="prompt_text">点击上方空白处预览，再次点击暂停</string>
+    <string name="start">开始</string>
+    <string name="result_text">检测结果</string>
+    <string name="notice">注：本检测报告仅仅针对本次所测试的样本，标准参考WHO人类精液检查与处理实验手册（第五版）。其检测的结果与样本质量、人为操作规范、环境等因素影响，存在一定误差，因此本结果仅作为个人参考，不能用作医学用途。</string>
+    <string name="_2019">精子质量得分统计</string>
+    <string name="doctor_advice">【医生建议】：</string>
+    <string name="information_register">账号注册</string>
+    <string name="button_register">确认注册</string>
+    <string name="user_information">用户信息</string>
+</resources>
